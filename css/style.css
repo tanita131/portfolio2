@@ -1,6 +1,9 @@
 body {
-    background: #3D3737;
+    background-color: #3D3737;
     font-family: 'Open Sans', sans-serif;
+    background: url('../img/b-2.png');
+	background-repeat: repeat;
+	height: 130px;
 }
 
 header {
@@ -107,7 +110,7 @@ header .menu .c-3:hover { background: #002d44;}
 }
 
 .portafolio .modal-dialog img {
-    border: 8px solid #363535;
+    border: 7px solid #000;
 }
 
 
